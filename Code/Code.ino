@@ -1,7 +1,7 @@
 // ###########################################################################################################################################
 // #
 // # Code for the printables 2x 4x4 matrix MS Teams USB keyboard project:
-// # https://www.printables.com/de/model/402081-2x-4x4-matrix-ms-teams-usb-keyboard
+// # https://www.printables.com/de/model/402081-8-button-ms-teams-usb-keyboard
 // #
 // # Code by https://github.com/AWSW-de using the great library "HID" from NicoHood =)
 // #
